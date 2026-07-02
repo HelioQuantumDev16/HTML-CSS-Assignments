@@ -1,0 +1,58 @@
+body{
+  background-color:darkgray;
+}
+
+.head{
+  color: darkblue;
+}
+
+#bgLime{
+  background-color: lime;
+}
+
+#headSpan{
+  color: red;
+}
+
+p{
+  color: white;
+}
+
+#para{
+  color: green;
+}
+
+#paraSpan{
+  color: black;
+  font-size:25px;
+}
+
+#listSel p{
+  color: black;
+  font-size: 25px;
+}
+
+ul li{
+  color: white;
+}
+
+ul li:first-child a{
+  background-color: yellow;
+  color: green;
+}
+
+
+ul li:last-child a{
+  background-color:blue;
+  color:yellow;
+}
+
+ol li:nth-child(2){
+  color: blue;
+}
+
+ol li:nth-child(3){
+  color: red;
+}
+
+
