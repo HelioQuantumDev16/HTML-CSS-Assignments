@@ -1,5 +1,8 @@
 # TASK CSS - Laundry Services Hero Section
 
+# link
+- https://magnificent-pavlova-c1ae70.netlify.app/
+
 ## Description
 A Simple Laundry Service Hero Section Created using HTML and CSS. In this project we have used float property and display inline-block property of css.
 
